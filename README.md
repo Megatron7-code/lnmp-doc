@@ -11,6 +11,3 @@
 * [php-fpm配置](https://github.com/xushuai1898/lnmp-doc/blob/master/Doc/php-fpm.conf)
 * [php-fpm子进程池配置](https://github.com/xushuai1898/lnmp-doc/blob/master/Doc/www.conf)
 * [php.ini配置](https://github.com/xushuai1898/lnmp-doc/blob/master/Doc/php.ini)
-
-## Redis
-* []()
